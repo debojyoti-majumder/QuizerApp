@@ -1,0 +1,28 @@
+{
+  "name": "quizerapp",
+  "version": "0.0.1",
+  "description": "A Web Application to run quize sets",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debojyoti-majumder/QuizerApp.git"
+  },
+  "keywords": [
+    "node",
+    "webapp",
+    "quiz"
+  ],
+  "author": "debojyoti.majumder@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/debojyoti-majumder/QuizerApp/issues"
+  },
+  "homepage": "https://github.com/debojyoti-majumder/QuizerApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
